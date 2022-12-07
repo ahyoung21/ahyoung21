@@ -4,3 +4,5 @@
 - 💻 portfolio : https://ahyoung21.github.io/portfolio/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahyoung21&" alt="" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyoung21&layout=compact" alt="" /></p>
